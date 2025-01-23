@@ -28,6 +28,7 @@ function App(): React.JSX.Element {
           <Text className="text-1xl text-white">
             Hello Tailwind here
           </Text>
+          <Text className='text-center text-white'>Faizan Dev</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
